@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<currencies>
+    <currency>
+        <abbreviation>AUD</abbreviation>
+        <name>Australian Dollar</name>
+        <symbol>A$</symbol>
+    </currency>
+    <currency>
+        <abbreviation>BGN</abbreviation>
+        <name>Bulgarian Lev</name>
+        <symbol>лв</symbol>
+    </currency>
+    <currency>
+        <abbreviation>BRL</abbreviation>
+        <name>Brazilian Real</name>
+        <symbol>R$</symbol>
+    </currency>
+    <currency>
+        <abbreviation>CAD</abbreviation>
+        <name>Canadian Dollar</name>
+        <symbol>C$</symbol>
+    </currency>
+    <currency>
+        <abbreviation>CHF</abbreviation>
+        <name>Swiss Franc</name>
+        <symbol>CHF</symbol>
+    </currency>
+    <currency>
+        <abbreviation>CNY</abbreviation>
+        <name>Chinese Yuan</name>
+        <symbol>¥</symbol>
+    </currency>
+    <currency>
+        <abbreviation>CZK</abbreviation>
+        <name>Czech Koruna</name>
+        <symbol>Kč</symbol>
+    </currency>
+    <currency>
+        <abbreviation>DKK</abbreviation>
+        <name>Danish Krone</name>
+        <symbol>kr</symbol>
+    </currency>
+    <currency>
+        <abbreviation>EUR</abbreviation>
+        <name>Euro</name>
+        <symbol>€</symbol>
+    </currency>
+    <currency>
+        <abbreviation>GBP</abbreviation>
+        <name>British Pound Sterling</name>
+        <symbol>£</symbol>
+    </currency>
+    <currency>
+        <abbreviation>HKD</abbreviation>
+        <name>Hong Kong Dollar</name>
+        <symbol>HK$</symbol>
+    </currency>
+    <currency>
+        <abbreviation>HRK</abbreviation>
+        <name>Croatian Kuna (now EUR)</name>
+        <symbol>kn</symbol>
+    </currency>
+    <currency>
+        <abbreviation>HUF</abbreviation>
+        <name>Hungarian Forint</name>
+        <symbol>Ft</symbol>
+    </currency>
+    <currency>
+        <abbreviation>IDR</abbreviation>
+        <name>Indonesian Rupiah</name>
+        <symbol>Rp</symbol>
+    </currency>
+    <currency>
+        <abbreviation>ILS</abbreviation>
+        <name>Israeli New Shekel</name>
+        <symbol>₪</symbol>
+    </currency>
+    <currency>
+        <abbreviation>INR</abbreviation>
+        <name>Indian Rupee</name>
+        <symbol>₹</symbol>
+    </currency>
+    <currency>
+        <abbreviation>ISK</abbreviation>
+        <name>Icelandic Króna</name>
+        <symbol>kr</symbol>
+    </currency>
+    <currency>
+        <abbreviation>JPY</abbreviation>
+        <name>Japanese Yen</name>
+        <symbol>¥</symbol>
+    </currency>
+    <currency>
+        <abbreviation>KRW</abbreviation>
+        <name>South Korean Won</name>
+        <symbol>₩</symbol>
+    </currency>
+    <currency>
+        <abbreviation>MXN</abbreviation>
+        <name>Mexican Peso</name>
+        <symbol>Mex$</symbol>
+    </currency>
+    <currency>
+        <abbreviation>MYR</abbreviation>
+        <name>Malaysian Ringgit</name>
+        <symbol>RM</symbol>
+    </currency>
+    <currency>
+        <abbreviation>NOK</abbreviation>
+        <name>Norwegian Krone</name>
+        <symbol>kr</symbol>
+    </currency>
+    <currency>
+        <abbreviation>NZD</abbreviation>
+        <name>New Zealand Dollar</name>
+        <symbol>NZ$</symbol>
+    </currency>
+    <currency>
+        <abbreviation>PHP</abbreviation>
+        <name>Philippine Peso</name>
+        <symbol>₱</symbol>
+    </currency>
+    <currency>
+        <abbreviation>PLN</abbreviation>
+        <name>Polish Złoty</name>
+        <symbol>zł</symbol>
+    </currency>
+    <currency>
+        <abbreviation>RON</abbreviation>
+        <name>Romanian Leu</name>
+        <symbol>lei</symbol>
+    </currency>
+    <currency>
+        <abbreviation>RUB</abbreviation>
+        <name>Russian Ruble</name>
+        <symbol>₽</symbol>
+    </currency>
+    <currency>
+        <abbreviation>SEK</abbreviation>
+        <name>Swedish Krona</name>
+        <symbol>kr</symbol>
+    </currency>
+    <currency>
+        <abbreviation>SGD</abbreviation>
+        <name>Singapore Dollar</name>
+        <symbol>S$</symbol>
+    </currency>
+    <currency>
+        <abbreviation>THB</abbreviation>
+        <name>Thai Baht</name>
+        <symbol>฿</symbol>
+    </currency>
+    <currency>
+        <abbreviation>TRY</abbreviation>
+        <name>Turkish Lira</name>
+        <symbol>₺</symbol>
+    </currency>
+    <currency>
+        <abbreviation>USD</abbreviation>
+        <name>United States Dollar</name>
+        <symbol>$</symbol>
+    </currency>
+    <currency>
+        <abbreviation>ZAR</abbreviation>
+        <name>South African Rand</name>
+        <symbol>R</symbol>
+    </currency>
+</currencies>

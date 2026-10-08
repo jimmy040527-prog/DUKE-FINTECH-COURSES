@@ -1,0 +1,35 @@
+| Abbreviation | Full Name                           | Symbol |
+| ------------ | ----------------------------------- | ------ |
+| AUD          | Australian Dollar                   | A\$    |
+| BGN          | Bulgarian Lev                       | лв     |
+| BRL          | Brazilian Real                      | R\$    |
+| CAD          | Canadian Dollar                     | C\$    |
+| CHF          | Swiss Franc                         | CHF    |
+| CNY          | Chinese Yuan                        | ¥      |
+| CZK          | Czech Koruna                        | Kč     |
+| DKK          | Danish Krone                        | kr     |
+| EUR          | Euro                                | €      |
+| GBP          | British Pound Sterling              | £      |
+| HKD          | Hong Kong Dollar                    | HK\$   |
+| HRK          | Croatian Kuna (now replaced by EUR) | kn (†) |
+| HUF          | Hungarian Forint                    | Ft     |
+| IDR          | Indonesian Rupiah                   | Rp     |
+| ILS          | Israeli New Shekel                  | ₪      |
+| INR          | Indian Rupee                        | ₹      |
+| ISK          | Icelandic Króna                     | kr     |
+| JPY          | Japanese Yen                        | ¥      |
+| KRW          | South Korean Won                    | ₩      |
+| MXN          | Mexican Peso                        | Mex\$  |
+| MYR          | Malaysian Ringgit                   | RM     |
+| NOK          | Norwegian Krone                     | kr     |
+| NZD          | New Zealand Dollar                  | NZ\$   |
+| PHP          | Philippine Peso                     | ₱      |
+| PLN          | Polish Złoty                        | zł     |
+| RON          | Romanian Leu                        | lei    |
+| RUB          | Russian Ruble                       | ₽      |
+| SEK          | Swedish Krona                       | kr     |
+| SGD          | Singapore Dollar                    | S\$    |
+| THB          | Thai Baht                           | ฿      |
+| TRY          | Turkish Lira                        | ₺      |
+| USD          | United States Dollar                | \$     |
+| ZAR          | South African Rand                  | R      |
