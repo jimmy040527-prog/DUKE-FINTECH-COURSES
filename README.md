@@ -1,2 +1,2 @@
-# First-Semester-for-my-Fintech-Program
+# DUKE FINTECH
 Mostly code for Fin510
